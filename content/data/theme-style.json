@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "body": "#000",
+    "body": "#000000NaN",
     "headline": "#303941",
     "primary": "#28aaff",
     "secondary": "#dfe3e7",
