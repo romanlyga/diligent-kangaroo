@@ -25,12 +25,6 @@
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Exa",
-                "url": "/example",
-                "altText": ""
             }
         ],
         "secondaryLinks": [
