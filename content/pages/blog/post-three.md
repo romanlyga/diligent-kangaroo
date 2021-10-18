@@ -9,6 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/about.jpg
+  altText: for the image
 bottomSections:
   - type: CtaSection
     colors: colors-e
