@@ -10,6 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/about.jpg
   altText: for the image
+  caption: close Caption
 bottomSections:
   - type: CtaSection
     colors: colors-e
