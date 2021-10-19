@@ -28,7 +28,7 @@ sections:
         altText: Learn more
         url: /
         showIcon: false
-        icon: arrowLeft
+        icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
