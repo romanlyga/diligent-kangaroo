@@ -25,7 +25,7 @@ sections:
         style: primary
         elementId: hero-main-button
       - label: Learn
-        altText: Learn more
+        altText: Learn
         url: /
         showIcon: false
         icon: arrowRight
